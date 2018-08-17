@@ -2,20 +2,22 @@
 @import url("https://fonts.googleapis.com/css?family=Roboto:400,400i,700");
 
 body {
-  background-color: #EF5350;  
+    background-color: black;
+    background-image: url(weights_crossfit_gym-compressed.jpg);
 }
 
 #header {
-  font-family: "Josefin Sans", sans-serif;
-  letter-spacing: 1px;
-  color: white;
-  text-align: center;
-  margin: 0 auto;
-  width: 50%;
+      font-family: "Josefin Sans", sans-serif;
+      letter-spacing: 1px;
+      color: black;
+      text-align: center;
+      margin: 0 auto;
+      margin-top: 50px;
+      width: 50%;
 } 
 hr {
   width: 600px;
-  border: 1px solid white;
+  border: 1px solid black;
   margin: 0 auto;
 }
 #form-container {
