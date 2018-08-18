@@ -4,6 +4,9 @@
 body {
     background-color: black;
     background-image: url(weights_crossfit_gym-compressed.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
 
 #header {
@@ -64,7 +67,7 @@ hr {
   font-weight: 500;
   width: 80px;
   height: 45px;
-  background-color: #EF5350;
+  background-color: #F85158;
   border: 0px solid;
   border-radius: 3px;
   cursor: pointer;
