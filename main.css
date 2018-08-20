@@ -4,6 +4,7 @@
 body {
     background-color: black;
     background-image: url(weights_crossfit_gym-compressed.jpg);
+    background-attachment: fixed;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
